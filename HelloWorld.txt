@@ -1,0 +1,6 @@
+Mein erstes Programm
+
+(1. Commit)
+
+Server Änderung!
+Lokale Änderung 
